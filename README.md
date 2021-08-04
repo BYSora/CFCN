@@ -10,7 +10,7 @@ python preprocess.py
 ```
 python train.py
 ```
-- Testing model. We also provide trained weights for valitation
+- Testing model. We also provide trained weights for validation
 ```
 python test.py
 ```
